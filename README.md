@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I like to dabble in graphic design, surf, watch football (soccer... sigh), play chess, and exploring the great outdoors.\
 💬 &nbsp;I love connecting with new people. Please don't hesitate to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at m.p.wigglesworth@gmail.com! I try to respond as soon as I can.\
-✌️ &nbsp;Please have a look at my [terrible website](https://www.mattwigg.com/) for more details about me.\
+✌️ &nbsp;Please have a look at my [terrible website](https://www.mattwigg.com/) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
 
