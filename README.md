@@ -47,8 +47,7 @@ git clone https://github.com/Matt-Wigg/mattwigg.git
 ```sh
 npm install
 ```
-```
-6. Run the project:
+3. Run the project:
 ```sh
 npm run dev
 ```
