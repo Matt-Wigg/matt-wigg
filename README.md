@@ -64,7 +64,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Website - [mattwigg.com](https://www.mattwigg.com/)
+Website - [mattwigg](https://www.mattwigg.com/)
 
 Professional - [LinkedIn](https://www.linkedin.com/in/matt-wigg/)
 
