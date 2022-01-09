@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop innovative software solutions.\
 🎓 &nbsp;I'm currently working at [HTLF](https://www.htlf.com/) as a Digital Technology Supervisor.\
 🌱 &nbsp;I'm currently learning more about the Blockchain, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I like to dabble in graphic design, surf, watch football (soccer... sigh), play chess, and exploring the great outdoors.\
