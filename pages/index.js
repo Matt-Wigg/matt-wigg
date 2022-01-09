@@ -57,8 +57,8 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-        <div>Yes, I am really using the create-next-app template as my porfolio
-            landing page... For now ™️ 😭 ✌️</div>
+        <p align="center">Yes, I am really using the create-next-app template as my porfolio
+            landing page... For now ™️ 😭 ✌️</p>
       </footer>
     </div>
   )
