@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm Matthew Wigglesworth</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Matthew Wigglesworth -->
 
@@ -52,5 +52,5 @@
 <a href="https://www.mattwigg.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:m.p.wigglesworth+githubreadme@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/matt_wigg_/"><img src="https://img.shields.io/badge/-@matt-wigg__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/matt_wigg_/"><img src="https://img.shields.io/badge/Follow%3A%20-instagram-ff69b4"/></a>
 </p>
