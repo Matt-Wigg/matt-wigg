@@ -46,7 +46,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.mattwigg.com"><img src="https://img.shields.io/badge/Website%3A-mattwigg-black"/></a>
 <a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/Professional%3A-linkedin-blue"/></a>
 <a href="mailto:m.p.wigglesworth+githubreadme@gmail.com"><img src="https://img.shields.io/badge/Mail%3A-gmail-critical"/></a>
