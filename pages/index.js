@@ -15,10 +15,10 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a>This is my software development website</a>
+          <a>Matt_Wigg_ = &ldquo;Software Developer&ldquo;</a>
         </h1>
         <p className={styles.description}>
-          I mainly write code, and never finish projects
+          I mainly write code, and never finish personal projects
           <p>
             <code className={styles.code}>Apex, CSS3, HTML5, Java, JavaScript, Python, TypeScript</code>
           </p>
@@ -28,7 +28,7 @@ export default function Home() {
             href="https://github.com/matt-wigg"
             target="_blank"
             rel="noreferrer"
-            className={styles.card}
+            className={styles.githubcard}
           >
             <h2>GitHub &rarr;</h2>
             <p>I put my project code and other things here.</p>
@@ -37,7 +37,7 @@ export default function Home() {
             href="https://www.linkedin.com/in/matt-wigg/"
             target="_blank"
             rel="noreferrer"
-            className={styles.card}
+            className={styles.linkedincard}
           >
             <h2>LinkedIn &rarr;</h2>
             <p>I try to act like a professional here.</p>
@@ -46,7 +46,7 @@ export default function Home() {
             href="https://www.instagram.com/matt_wigg_/"
             target="_blank"
             rel="noreferrer"
-            className={styles.card}
+            className={styles.instacard}
           >
             <h2>Instagram &rarr;</h2>
             <p>I post pictures of my real life here.</p>

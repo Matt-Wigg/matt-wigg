@@ -15,6 +15,8 @@
   flex: 1;
   justify-content: center;
   align-items: center;
+  margin-top: 2.5rem;
+  color: rgb(103, 103, 103);
 }
 
 .footer a {
@@ -64,7 +66,9 @@
   max-width: 800px;
 }
 
-.card {
+.instacard, 
+.linkedincard,
+.githubcard {
   margin: 1rem;
   padding: 1.5rem;
   text-align: left;
@@ -76,19 +80,37 @@
   max-width: 300px;
 }
 
-.card:hover,
-.card:focus,
-.card:active {
-  color: hsl(270, 100%, 48%);
-  border-color: hsl(270, 100%, 48%);
+.instacard:hover,
+.instacard:focus,
+.instacard:active {
+  color: #af37b7;
+  border-color: #af37b7;
 }
 
-.card h2 {
+.githubcard:hover,
+.githubcard:focus,
+.githubcard:active {
+  color: hsl(0, 0%, 44%);
+  border-color: hsl(0, 0%, 44%);
+}
+
+.linkedincard:hover,
+.linkedincard:focus,
+.linkedincard:active {
+  color: hsl(210, 100%, 50%);
+  border-color: hsl(210, 100%, 50%);
+}
+
+.instacard h2, 
+.linkedincard h2,
+.githubcard h2 {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
 }
 
-.card p {
+.instacard p, 
+.linkedincard p,
+.githubcard p{
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
