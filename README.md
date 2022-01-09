@@ -1,34 +1,80 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Matt Wigg: Software Developer
+My portfolio website, built using the Next.js open-source development framework.
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Features](#features)
+    * [Pending...](#pending)
+3. [Built With](#built-with)
+4. [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+5. [Contributing](#contributing)
+6. [Contact](#contact)
+7. [Acknowledgements](#acknowledgements)
+8. [License](#license)
+
+
+## Overview
+<p align="center" height="200"><img src="https://i.imgur.com/DPosm5E.png"></p>
+<p>This is my portfolio website. It took me about five minutes to build. It is poorly designed and needs to be worked on. One day I will work on it.</p>
+
+## Features
+
+### Pending...
+A static, single-page website with three external links: GitHub, LinkedIn, and Instagram.
+
+## Built With
+
+My website is built with:
+* [Next.js](https://nextjs.org/)
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
+Node.js and npm are required in order to quickly get up and running with this project. Lukily, npm is distributed with Node.js - which means that when you download Node.js, you automatically get npm installed on your computer! You can install Node.js [HERE](https://nodejs.org/en/).
+
+
+### Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/Matt-Wigg/mattwigg.git
+```
+2. Install npm packages
+```sh
+npm install
+```
+```
+6. Run the project:
+```sh
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Contact
 
-## Learn More
+Website - [mattwigg.com](https://www.mattwigg.com/)
 
-To learn more about Next.js, take a look at the following resources:
+Professional - [LinkedIn](https://www.linkedin.com/in/matt-wigg/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Project Link: [https://github.com/Matt-Wigg/mattwigg](https://github.com/Matt-Wigg/mattwigg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Acknowledgements
 
-## Deploy on Vercel
+Pending...
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Distributed under the MIT License.
