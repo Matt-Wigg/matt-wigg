@@ -9,8 +9,8 @@
 🌱 &nbsp;I'm currently learning more about the Blockchain, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I like to dabble in graphic design, surf, watch football (soccer... sigh), play chess, and exploring the great outdoors.\
 💬 &nbsp;I love connecting with new people. Please don't hesitate to reach out to me.\
-✉️ &nbsp;You can shoot me an email at m.p.wigglesworth+githubreadme@gmail.com! I try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://www.adityavsingh.com/resume.html) for more details about me. Much love ✌️.
+✉️ &nbsp;You can shoot me an email at m.p.wigglesworth@gmail.com! I try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [terrible website](https://www.mattwigg.com/) for more details about me. Much love ✌️.
 
 ### 🛠 &nbsp;Tech Stack
 
