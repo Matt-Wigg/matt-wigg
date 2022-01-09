@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working at ![HTLF](https://www.htlf.com/) as a Digital Technology Supervisor.\
 🌱 &nbsp;I'm currently learning more about the Blockchain, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like to dabble in Graphic Design, surf, watch football ⚽️, play Chess, and exploring the great outdoors.\
+✍️ &nbsp;In my free time, I like to dabble in Graphic Design, surf, watch football (soccer... sigh), play Chess, and exploring the great outdoors.\
 💬 &nbsp;I love connecting with new people. Please don't hesitate to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at m.p.wigglesworth+githubreadme@gmail.com! I try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Website](https://www.adityavsingh.com/resume.html) for more details about me. Much love ✌️.
