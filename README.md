@@ -49,7 +49,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.mattwigg.com"><img src="https://img.shields.io/badge/Website%3A-mattwigg.com-lightgrey"/></a>
+<a href="https://www.mattwigg.com"><img src="https://img.shields.io/badge/Website%3A-mattwigg-black"/></a>
 <a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/Connect%3A%20-linkedin-blue"/></a>
 <a href="mailto:m.p.wigglesworth+githubreadme@gmail.com"><img src="https://img.shields.io/badge/Mail%3A-%40gmail-critical"/></a>
 <a href="https://www.instagram.com/matt_wigg_/"><img src="https://img.shields.io/badge/Follow%3A%20-instagram-ff69b4"/></a>
