@@ -18,9 +18,9 @@ export default function Home() {
           <a>This is my software development website</a>
         </h1>
         <p className={styles.description}>
-          I mainly write code, and never finish projects.
+          I mainly write code, and never finish projects
           <p>
-            <code className={styles.code}>England = (move) =&gt; sanDiego;</code>
+            <code className={styles.code}>Apex, CSS3, HTML5, Java, JavaScript, Python, TypeScript</code>
           </p>
         </p>
         <div className={styles.grid}>
