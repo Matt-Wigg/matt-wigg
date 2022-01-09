@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Matt_Wigg_ Software Development</title>
+        <title>Matt Wigg: Software Developer</title>
         <meta
           name="description"
           content="This is my software development website, Nerd!"
@@ -18,7 +18,7 @@ export default function Home() {
           <a>This is my software development website</a>
         </h1>
         <p className={styles.description}>
-          I write code and never finish projects.
+          I mainly write code, and never finish projects.
           <p>
             <code className={styles.code}>England = (move) =&gt; sanDiego;</code>
           </p>
@@ -31,7 +31,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>GitHub &rarr;</h2>
-            <p>I put the code to the things I work on here.</p>
+            <p>I put my project code and other things here.</p>
           </a>
           <a
             href="https://www.linkedin.com/in/matt-wigg/"
@@ -57,8 +57,8 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-        <p align="center">Yes, I am really using the create-next-app template as my porfolio
-            landing page... For now ™️ 😭 ✌️</p>
+        <p align="center">Yes, I really am using the create-next-app template as my porfolio
+            landing page... for now™️ 😭 ✌️</p>
       </footer>
     </div>
   )
