@@ -17,7 +17,7 @@ My portfolio website, built using the Next.js open-source development framework.
 
 
 ## Overview
-<p align="center" height="200"><img src="https://i.imgur.com/DPosm5E.png"></p>
+<p align="center" height="200"><img src="https://imgur.com/uU7SKoN.png"></p>
 <p>This is my portfolio website. It took me about five minutes to build. It is poorly designed and needs to be worked on. One day I will work on it.</p>
 
 ## Features
