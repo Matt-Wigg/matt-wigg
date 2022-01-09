@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop innovative software solutions.\
 🏭 &nbsp;I'm currently working at [HTLF](https://www.htlf.com/) as a Digital Technology Supervisor.\
-🌱 &nbsp;I'm currently learning more about the Blockchain, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm currently learning more about the Blockchain, Systems Design, Cloud Architecture, and the Salesforce Apex programming language.\
 ✍️ &nbsp;In my free time, I like to dabble in graphic design, surf, watch football (soccer... sigh), play chess, and exploring the great outdoors.\
 💬 &nbsp;I love connecting with new people. Please don't hesitate to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at m.p.wigglesworth@gmail.com! I try to respond as soon as I can.\
@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypseScript-05122A?style=flat&logo=typescript&logoColor=blue)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Apex](https://img.shields.io/badge/-Apex-05122A?style=flat&logo=salesforce&logoColor=lightblue)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=FEFEFE)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
