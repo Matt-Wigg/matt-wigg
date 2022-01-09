@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextdotjs&logoColor=FEFEFE)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://www.mattwigg.com"><img src="https://img.shields.io/badge/Website%3A-mattwigg-black"/></a>
-<a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/Connect%3A%20-linkedin-blue"/></a>
+<a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/Professional%3A-linkedin-blue"/></a>
 <a href="mailto:m.p.wigglesworth+githubreadme@gmail.com"><img src="https://img.shields.io/badge/Mail%3A-%40gmail-critical"/></a>
 <a href="https://www.instagram.com/matt_wigg_/"><img src="https://img.shields.io/badge/Follow%3A%20-instagram-ff69b4"/></a>
 </p>
