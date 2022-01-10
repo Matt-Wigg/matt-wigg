@@ -1,6 +1,6 @@
-<h2>&nbsp;Hey there! I'm Matthew Wigglesworth 👋</h2>
+<h2>👋 &nbsp;Hey there! I'm Matthew Wigglesworth </h2>
 
-<!-- ## &nbsp;Hey there, I'm Matthew Wigglesworth 👋  -->
+<!-- ## 👋 &nbsp;Hey there, I'm Matthew Wigglesworth -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
