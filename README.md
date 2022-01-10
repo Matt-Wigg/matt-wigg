@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there, I'm Matthew Wigglesworth -->
 
-### 👨🏻‍💻 &nbsp;About Me
+###👨‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop helpful software solutions.\
 🏭 &nbsp;I'm currently working at [HTLF](https://www.htlf.com/) as a Digital Technology Supervisor.\
