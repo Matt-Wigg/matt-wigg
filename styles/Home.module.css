@@ -15,7 +15,6 @@
   flex: 1;
   justify-content: center;
   align-items: center;
-  margin-top: 2.5rem;
   color: rgb(103, 103, 103);
 }
 
@@ -83,22 +82,22 @@
 .instacard:hover,
 .instacard:focus,
 .instacard:active {
-  color: #af37b7;
-  border-color: #af37b7;
+  color: #E1306C;
+  border-color: #E1306C;
 }
 
 .githubcard:hover,
 .githubcard:focus,
 .githubcard:active {
-  color: hsl(0, 0%, 44%);
-  border-color: hsl(0, 0%, 44%);
+  color: #999999;
+  border-color: #999999;
 }
 
 .linkedincard:hover,
 .linkedincard:focus,
 .linkedincard:active {
-  color: hsl(210, 100%, 50%);
-  border-color: hsl(210, 100%, 50%);
+  color: #2867B2;
+  border-color: #2867B2;
 }
 
 .instacard h2, 

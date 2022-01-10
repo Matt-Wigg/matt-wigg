@@ -1,12 +1,20 @@
 import Head from "next/head";
-import Image from "next/image";
 import styles from "../styles/Home.module.css";
+import { library } from "@fortawesome/fontawesome-svg-core";
+import {
+  faGithub,
+  faLinkedin,
+  faInstagram,
+} from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
+library.add(faGithub, faLinkedin, faInstagram);
 
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Matt Wigg: Software Developer</title>
+        <title>Matt-Wigg Software Development Website</title>
         <meta
           name="description"
           content="This is my software development website, Nerd!"
@@ -15,12 +23,15 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a>Matt_Wigg_ = &ldquo;Software Developer&ldquo;</a>
+          <a>matt_wigg = software_developer</a>
         </h1>
         <p className={styles.description}>
           I mainly write code, and never finish personal projects
           <p>
-            <code className={styles.code}>Apex, CSS3, HTML5, Java, JavaScript, Python, TypeScript</code>
+            <p>🇬🇧 =&gt; 🇺🇸</p>
+            <code className={styles.code}>
+              CSS3, HTML5, Java, JavaScript, Python, TypeScript
+            </code>
           </p>
         </p>
         <div className={styles.grid}>
@@ -30,7 +41,9 @@ export default function Home() {
             rel="noreferrer"
             className={styles.githubcard}
           >
-            <h2>GitHub &rarr;</h2>
+            <h2>
+              Github <FontAwesomeIcon icon={faGithub} fixedWidth />
+            </h2>
             <p>I put my project code and other things here.</p>
           </a>
           <a
@@ -39,7 +52,9 @@ export default function Home() {
             rel="noreferrer"
             className={styles.linkedincard}
           >
-            <h2>LinkedIn &rarr;</h2>
+            <h2>
+              LinkedIn <FontAwesomeIcon icon={faLinkedin} fixedWidth />
+            </h2>
             <p>I try to act like a professional here.</p>
           </a>
           <a
@@ -48,18 +63,20 @@ export default function Home() {
             rel="noreferrer"
             className={styles.instacard}
           >
-            <h2>Instagram &rarr;</h2>
+            <h2>
+              Instagram <FontAwesomeIcon icon={faInstagram} fixedWidth />
+            </h2>
             <p>I post pictures of my real life here.</p>
           </a>
-          <p>
-
-          </p>
+          <p></p>
         </div>
       </main>
       <footer className={styles.footer}>
-        <p align="center">Yes, I really am using the create-next-app template as my porfolio
-            landing page... for now™️ 😭 ✌️</p>
+        <p align="center">
+          Yes, I really am using the create-next-app template as my porfolio
+          landing page... for now™️ 😭 ✌️
+        </p>
       </footer>
     </div>
-  )
+  );
 }
