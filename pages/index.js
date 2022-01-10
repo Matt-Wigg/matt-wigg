@@ -28,7 +28,6 @@ export default function Home() {
         <p className={styles.description}>
           I mainly write code, and never finish personal projects
           <p>
-            <p>🇬🇧 =&gt; 🇺🇸</p>
             <code className={styles.code}>
               CSS3, HTML5, Java, JavaScript, Python, TypeScript
             </code>
