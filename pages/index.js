@@ -22,14 +22,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-          <p className={styles.code}>matt_wigg = software_developer</p>
+        <p className={styles.code}>matt_wigg = software_developer</p>
         <p className={styles.description}>
           I mainly write code, and never finish personal projects
-          <p>
-            <code className={styles.code}>
-              CSS3, HTML5, Java, JavaScript, Python, TypeScript
-            </code>
-          </p>
+        </p>
+        <p className={styles.description}>
+          <code className={styles.code}>
+            CSS3, HTML5, Java, JavaScript, Python, TypeScript
+          </code>
         </p>
         <div className={styles.grid}>
           <a
