@@ -22,9 +22,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          <a>matt_wigg = software_developer</a>
-        </h1>
+          <p className={styles.code}>matt_wigg = software_developer</p>
         <p className={styles.description}>
           I mainly write code, and never finish personal projects
           <p>
