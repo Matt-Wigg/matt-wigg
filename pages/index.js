@@ -14,10 +14,10 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Matt-Wigg Software Development Website</title>
+        <title>Matt Wigg: Software Developer</title>
         <meta
           name="description"
-          content="This is my software development website, Nerd!"
+          content="This is my software development website :)!"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
