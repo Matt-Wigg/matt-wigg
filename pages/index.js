@@ -9,6 +9,12 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Image from 'next/image';
 
+const img = "https://firebasestorage.googleapis.com/v0/b/bitcoin\
+-billionaires-9db14/o/43EBB019.png?alt=media";
+
+const blurImg = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUg\
+AAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mMMqwcAATEA14+xIsMAAAAASUVORK5CYII=";
+
 library.add(faGithub, faLinkedin, faInstagram);
 
 export default function Home() {
@@ -28,9 +34,10 @@ export default function Home() {
           I mainly write code, and never finish personal projects
         </p>
         <Image
-        src="https://firebasestorage.googleapis.com/v0/b/bitcoin-billionaires-9db14/o/43EBB019.png?alt=media"
+        src={img}
         alt="This is me, an NFT!"
-        placeholder="blue"
+        placeholder="blur"
+        blurDataURL={blurImg}
         width={512}
         height={512}
       />
