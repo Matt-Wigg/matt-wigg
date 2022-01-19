@@ -7,6 +7,7 @@ import {
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import Image from 'next/image';
 
 library.add(faGithub, faLinkedin, faInstagram);
 
@@ -26,6 +27,13 @@ export default function Home() {
         <p className={styles.description}>
           I mainly write code, and never finish personal projects
         </p>
+        <Image
+        src="https://firebasestorage.googleapis.com/v0/b/bitcoin-billionaires-9db14/o/43EBB019.png?alt=media"
+        alt="This is me, an NFT!"
+        placeholder="blue"
+        width={512}
+        height={512}
+      />
         <p className={styles.description}>
           <code className={styles.code}>
             CSS3, HTML5, Java, JavaScript, Python, TypeScript
