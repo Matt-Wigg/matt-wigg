@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop helpful software solutions.\
 🏭 &nbsp;I'm currently working at [HTLF](https://www.htlf.com/) as a Digital Technology Supervisor.\
-🌱 &nbsp;I'm learning about Blockchain, Cloud Architecture, and the Salesforce Apex programming language.\
+🌱 &nbsp;I'm learning about the Blockchain, Cloud Architecture, and the Salesforce Apex programming language.\
 ✍️ &nbsp;In my free time I like to hike, camp, surf, watch football (soccer... sigh), play chess, and hang out with my wife.\
 💬 &nbsp;I love connecting with new people; please don't hesitate to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at m.p.wigglesworth@gmail.com - I will try to respond as soon as I can.\
