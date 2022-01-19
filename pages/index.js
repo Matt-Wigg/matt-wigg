@@ -8,6 +8,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Image from 'next/image';
+import profilePic from '../public/my-nft.png';
 
 library.add(faGithub, faLinkedin, faInstagram);
 
@@ -28,11 +29,8 @@ export default function Home() {
           I mainly write code, and never finish personal projects
         </p>
         <Image
-        src="https://firebasestorage.googleapis.com/v0/b/bitcoin-billionaires-9db14/o/43EBB019.png?alt=media"
+        src={profilePic}
         alt="This is me, an NFT!"
-        placeholder="blue"
-        width={512}
-        height={512}
       />
         <p className={styles.description}>
           <code className={styles.code}>
@@ -77,10 +75,6 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-        <p align="center">
-          Yes, I really am using the create-next-app template as my porfolio
-          landing page... for now™️ 😭 ✌️
-        </p>
       </footer>
     </div>
   );
