@@ -82,22 +82,22 @@
 .instacard:hover,
 .instacard:focus,
 .instacard:active {
-  color: #E1306C;
-  border-color: #E1306C;
+  color: #c73364;
+  border-color: #c73364;
 }
 
 .githubcard:hover,
 .githubcard:focus,
 .githubcard:active {
-  color: #999999;
-  border-color: #999999;
+  color: #c9b625e9;
+  border-color: #c9b625e9;
 }
 
 .linkedincard:hover,
 .linkedincard:focus,
 .linkedincard:active {
-  color: #2867B2;
-  border-color: #2867B2;
+  color: #2174da;
+  border-color: #2174da;
 }
 
 .instacard h2, 
