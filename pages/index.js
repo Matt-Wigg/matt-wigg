@@ -40,13 +40,11 @@ export default function Home() {
           alt="This is me, an NFT!"
           placeholder="blur"
           blurDataURL={blurImg}
-          width={512}
-          height={512}
+          width={212}
+          height={212}
         />
         <p className={styles.description}>
-          <code className={styles.code}>
-            CSS3, HTML5, Java, JavaScript, Python, TypeScript
-          </code>
+          That&apos;s me as an NFT
         </p>
         <div className={styles.grid}>
           <a
