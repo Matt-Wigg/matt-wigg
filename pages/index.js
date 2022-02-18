@@ -9,14 +9,6 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Image from "next/image";
 
-const img =
-  "https://firebasestorage.googleapis.com/v0/b/bitcoin\
--billionaires-9db14/o/43EBB019.png?alt=media";
-
-const blurImg =
-  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUg\
-AAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mMMqwcAATEA14+xIsMAAAAASUVORK5CYII=";
-
 library.add(faGithub, faLinkedin, faInstagram);
 
 export default function Home() {
@@ -35,17 +27,7 @@ export default function Home() {
         <p className={styles.description}>
           I mainly write code, and never finish personal projects
         </p>
-        <Image
-          src={img}
-          alt="This is me, an NFT!"
-          placeholder="blur"
-          blurDataURL={blurImg}
-          width={212}
-          height={212}
-        />
-        <p className={styles.description}>
-          That&apos;s me as an NFT
-        </p>
+        <iframe width="360" height="405" scrolling="no" frameBorder="no" src="https://audioglyphs.io/embed?id=7843&v=y"></iframe>
         <div className={styles.grid}>
           <a
             href="https://github.com/matt-wigg"
