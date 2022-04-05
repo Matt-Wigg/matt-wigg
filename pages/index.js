@@ -27,7 +27,6 @@ export default function Home() {
         <p className={styles.description}>
           I mainly write code, and never finish personal projects
         </p>
-        <iframe width="360" height="405" scrolling="no" frameBorder="no" src="https://audioglyphs.io/embed?id=7843&v=y"></iframe>
         <div className={styles.grid}>
           <a
             href="https://github.com/matt-wigg"
