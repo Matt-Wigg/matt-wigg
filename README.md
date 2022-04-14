@@ -5,8 +5,8 @@
 ### 👨‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop helpful software solutions\
-🌱 &nbsp;For fun, I sometimes create generative art\
 🏗 &nbsp;Building [walletpilot](https://walletpilot.net/) \
+🌱 &nbsp;For fun, I sometimes create generative art\
 ✍️ &nbsp;In my free time I like to hike, camp, surf, watch football (soccer... sigh), play chess, and hang out with my wife\
 💬 &nbsp;I love connecting with new people; please don't hesitate to reach out to me\
 ✌️ &nbsp;Take a look at my [website](https://www.mattwigg.com/) for more details
