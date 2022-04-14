@@ -9,8 +9,7 @@
 🏗 &nbsp;Building https://walletpilot.net/ \
 ✍️ &nbsp;In my free time I like to hike, camp, surf, watch football (soccer... sigh), play chess, and hang out with my wife.\
 💬 &nbsp;I love connecting with new people; please don't hesitate to reach out to me.\
-✉️ &nbsp;You can shoot me an email at m.p.wigglesworth@gmail.com - I will try to respond as soon as I can.\
-✌️ &nbsp;Take a look at my [website](https://www.mattwigg.com/) for more details about me.
+✌️ &nbsp;Take a look at my [website](https://www.mattwigg.com/) for more details.\
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,7 +33,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
+![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
