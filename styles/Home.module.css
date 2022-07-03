@@ -31,7 +31,6 @@
 
 .title a:hover,
 .title a:focus,
-
 .title {
   line-height: 1.15;
   font-size: 4rem;
@@ -63,10 +62,12 @@
   justify-content: center;
   flex-wrap: wrap;
   max-width: 800px;
+  height: 100%;
 }
 
-.instacard, 
+.instacard,
 .linkedincard,
+.artcard,
 .githubcard {
   margin: 1rem;
   padding: 1.5rem;
@@ -77,6 +78,27 @@
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
   max-width: 300px;
+  min-width: 300px;
+}
+
+.artcard {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  max-width: 300px;
+  min-width: 300px;
+}
+
+.artcard:hover,
+.artcard:focus,
+.artcard:active {
+  color: #8400ff;
+  border-color: #8400ff;
 }
 
 .instacard:hover,
@@ -89,8 +111,8 @@
 .githubcard:hover,
 .githubcard:focus,
 .githubcard:active {
-  color: #c9b625e9;
-  border-color: #c9b625e9;
+  color: #c98a25e9;
+  border-color: #c98a25e9;
 }
 
 .linkedincard:hover,
@@ -100,16 +122,18 @@
   border-color: #2174da;
 }
 
-.instacard h2, 
+.instacard h2,
 .linkedincard h2,
-.githubcard h2 {
+.githubcard h2,
+.artcard h2 {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
 }
 
-.instacard p, 
+.instacard p,
 .linkedincard p,
-.githubcard p{
+.githubcard p,
+.artcard p {
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
