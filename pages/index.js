@@ -1,15 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import { library } from "@fortawesome/fontawesome-svg-core";
-import {
-  faGithub,
-  faLinkedin,
-  faInstagram,
-} from "@fortawesome/free-brands-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Image from "next/image";
-
-library.add(faGithub, faLinkedin, faInstagram);
+import { FaPalette, FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 
 export default function Home() {
   return (
@@ -25,7 +16,7 @@ export default function Home() {
       <main className={styles.main}>
         <p className={styles.code}>matt_wigg = software_developer</p>
         <p className={styles.description}>
-          I mainly write code, and never finish personal projects
+         I mainly write code and jump around personal projects.
         </p>
         <div className={styles.grid}>
           <a
@@ -35,7 +26,7 @@ export default function Home() {
             className={styles.githubcard}
           >
             <h2>
-              Github <FontAwesomeIcon icon={faGithub} fixedWidth />
+              Github <FaGithub fixedwidth />
             </h2>
             <p>I put my project code and other things here.</p>
           </a>
@@ -46,10 +37,12 @@ export default function Home() {
             className={styles.linkedincard}
           >
             <h2>
-              LinkedIn <FontAwesomeIcon icon={faLinkedin} fixedWidth />
+              LinkedIn <FaLinkedin fixedwidth />
             </h2>
             <p>I try to act like a professional here.</p>
           </a>
+        </div>
+        <div className={styles.grid}>
           <a
             href="https://www.instagram.com/matt_wigg_/"
             target="_blank"
@@ -57,15 +50,26 @@ export default function Home() {
             className={styles.instacard}
           >
             <h2>
-              Instagram <FontAwesomeIcon icon={faInstagram} fixedWidth />
+              Instagram <FaInstagram fixedwidth />
             </h2>
             <p>I post pictures of my real life here.</p>
+          </a>
+          <a
+            href="https://www.deca.art/SoftwareGuy/Museum"
+            target="_blank"
+            rel="noreferrer"
+            className={styles.artcard}
+          >
+            <h2>
+              Art <FaPalette fixedwidth />
+            </h2>
+            <p>I collect NFT art and show it here.</p>
           </a>
           <p></p>
         </div>
       </main>
       <footer className={styles.footer}>
-        <p align="center">a better website... coming soon</p>
+        <p align="center">a better website coming soon...</p>
       </footer>
     </div>
   );
