@@ -26,7 +26,7 @@ export default function Home() {
             className={styles.githubcard}
           >
             <h2>
-              Github <FaGithub fixedwidth />
+              Github <FaGithub fixedwidth="true" />
             </h2>
             <p>I put my project code and other things here.</p>
           </a>
@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.linkedincard}
           >
             <h2>
-              LinkedIn <FaLinkedin fixedwidth />
+              LinkedIn <FaLinkedin fixedwidth="true" />
             </h2>
             <p>I try to act like a professional here.</p>
           </a>
@@ -50,7 +50,7 @@ export default function Home() {
             className={styles.instacard}
           >
             <h2>
-              Instagram <FaInstagram fixedwidth />
+              Instagram <FaInstagram fixedwidth="true" />
             </h2>
             <p>I post pictures of my real life here.</p>
           </a>
@@ -61,7 +61,7 @@ export default function Home() {
             className={styles.artcard}
           >
             <h2>
-              Art <FaPalette fixedwidth />
+              NFTs <FaPalette fixedwidth="true" />
             </h2>
             <p>I collect NFT art and show it here.</p>
           </a>
